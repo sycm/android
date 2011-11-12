@@ -28,7 +28,8 @@
   <project path="device/elocity/a7" name="CyanogenMod/android_device_elocity_a7" />
   <project path="device/geeksphone/one" name="CyanogenMod/android_device_geeksphone_one" />
   <project path="device/geeksphone/zero" name="CyanogenMod/android_device_geeksphone_zero" />
-  <project path="device/huawei/ascend" name="CyanogenMod/android_device_huawei_ascend" />
+  <project path="device/huawei/ascend" name="playfulgod/android_device_huawei_ascend" />
+  <project path="device/huawei/ascend2" name="sycm/android_device_huawei_ascend2" />
   <project path="device/huawei/u8150" name="CyanogenMod/android_device_huawei_u8150" />
   <project path="device/huawei/u8220" name="CyanogenMod/android_device_huawei_u8220" />
   <project path="device/htc/common" name="CyanogenMod/android_device_htc_common" />
@@ -316,7 +317,7 @@
   <project path="system/vold" name="CyanogenMod/android_system_vold" />
   <project path="system/wlan/ti" name="CyanogenMod/android_system_wlan_ti" />
 
-  <project path="vendor/cyanogen" name="CyanogenMod/android_vendor_cyanogen" />
+  <project path="vendor/cyanogen" name="sycm/android_vendor_cyanogen" />
   <project path="vendor/qcom/opensource/webkit" name="CyanogenMod/android_vendor_qcom_opensource_webkit" />
   <project path="vendor/tmobile/apps/ThemeChooser" name="CyanogenMod/themes-platform-vendor-tmobile-apps-ThemeChooser" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="CyanogenMod/android_vendor_tmobile_libs_com.tmobile.themes" />
