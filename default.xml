@@ -30,6 +30,9 @@
   <project path="device/geeksphone/zero" name="CyanogenMod/android_device_geeksphone_zero" />
   <project path="device/huawei/ascend" name="playfulgod/android_device_huawei_ascend" />
   <project path="device/huawei/ascend2" name="sycm/android_device_huawei_ascend2" />
+  <project path="device/huawei/m835" name="playfulgod/android_device_huawei_m835" />
+  <project path="device/micromax/a70" name="playfulgod/android_device_micromax_a70" />
+  <project path="device/lge/thunderc" name="sycm/android_device_lge_thunderc" />
   <project path="device/huawei/u8150" name="CyanogenMod/android_device_huawei_u8150" />
   <project path="device/huawei/u8220" name="CyanogenMod/android_device_huawei_u8220" />
   <project path="device/htc/common" name="CyanogenMod/android_device_htc_common" />
