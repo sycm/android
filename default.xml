@@ -22,7 +22,7 @@
   <project path="development" name="CyanogenMod/android_development" />
   <project path="device/common" name="CyanogenMod/android_device_common" />
   <project path="device/huawei/ascend" name="playfulgod/android_device_huawei_ascend" />
-  <project path="device/huawei/ascend2" name="sycm/android_device_huawei_ascend2" />
+  <project path="device/huawei/ascend2" name="ShunYea/android_device_huawei_ascend2" />
   <project path="device/huawei/m835" name="playfulgod/android_device_huawei_m835" />
   <project path="device/micromax/a70" name="playfulgod/android_device_micromax_a70" />
   <project path="device/lge/thunderc" name="sycm/android_device_lge_thunderc" />
