@@ -28,8 +28,6 @@
   <project path="device/lge/thunderc" name="sycm/android_device_lge_thunderc" />
   <project path="device/huawei/u8150" name="CyanogenMod/android_device_huawei_u8150" />
   <project path="device/huawei/u8220" name="CyanogenMod/android_device_huawei_u8220" />
-  <project path="device/lge/p970" name="CyanogenMod/android_device_lge_p970" />
-  <project path="device/lge/p990" name="CyanogenMod/android_device_lge_p990" />
   <project path="device/lge/p999" name="CyanogenMod/android_device_lge_p999" />
   <project path="device/lge/star-common" name="CyanogenMod/android_device_lge_star-common" />
   <project path="device/lge/thunderg" name="CyanogenMod/android_device_lge_thunderg" />
